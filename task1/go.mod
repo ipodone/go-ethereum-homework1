@@ -1,4 +1,4 @@
-module github.com/ipodone/go-ethereum-homework1
+module task1
 
 go 1.25.4
 
